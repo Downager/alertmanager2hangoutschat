@@ -1,5 +1,7 @@
 # alertmanager2hangoutschat
 
+[![Codeship Status for Downager/alertmanager2hangoutschat](https://app.codeship.com/projects/4ff9e7cc-fd8f-425a-a7f8-c74864176475/status?branch=master)](https://app.codeship.com/projects/418315)
+
 alertmanager2hangoutschat takes a alertmanager webhook and sends the alert to hangouts chat.
 
 Example alertmanager webhook config:
